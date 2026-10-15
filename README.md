@@ -50,4 +50,4 @@ on this menu you can search for information from the target username on social m
 <details>
 <summary>:zap: Author :</summary>
 - <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
-</details>
+</details> 0789149781
